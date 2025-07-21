@@ -1,0 +1,42 @@
+┌────────────────────┐
+│  User Input (CLI)  │
+└────────┬───────────┘
+         ↓
+┌──────────────────────────────────────────┐
+│ LLaMA 3.1 (LM Studio - local HTTP API)   │
+│ • Refines the user query for clarity     │
+└────────┬─────────────────────────────────┘
+         ↓
+┌──────────────────────────────────────────┐
+│ SentenceTransformer (MiniLM)             │
+│ • Converts refined query to vector       │
+└────────┬─────────────────────────────────┘
+         ↓
+┌──────────────────────────────────────────┐
+│ ChromaDB (Vector Database)               │
+│ • Searches embeddings of movie summaries │
+│ • Uses metadata filters (genre/director) │
+└────────┬─────────────────────────────────┘
+         ↓
+┌──────────────────────┐
+│ Top 5 Movie Matches  │
+│ • Title              │
+│ • Genre              │
+│ • Short Description  │
+└──────────────────────┘
+
+
+
+graph TD
+    A[User Input (movie query)] --> B[LLaMA 3.1 via LM Studio]
+    B --> C[SentenceTransformer Embedding]
+    C --> D[Chroma Vector DB]
+    D --> E[Top 5 Movie Matches]
+
+    B:::llm
+    C:::embed
+    D:::db
+
+    classDef llm fill:#fce2db,stroke:#de6b4b,color:#000
+    classDef embed fill:#e3f2fd,stroke:#42a5f5,color:#000
+    classDef db fill:#e8f5e9,stroke:#66bb6a,color:#000
