@@ -1,0 +1,11 @@
+
+---
+
+## 📦 Requirements
+
+- Python 3.7+
+- LM Studio (running a local LLM on port 1234)
+- Required Python libraries:
+
+```bash
+pip install requests beautifulsoup4
