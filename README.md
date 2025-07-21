@@ -1,2 +1,2 @@
-# LLM-Beginner
-This repository contains all the codes and documents related to an internship under ZeMoSo Technologies in Large Language Models.
+# Taskphase
+This branch contains the code required for word embeddings using hugging face in form of a jupyer notebook
