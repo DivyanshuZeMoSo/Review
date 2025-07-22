@@ -1,0 +1,18 @@
+Company: ZenoTech Inc.
+Fiscal Year: 2024
+
+Revenue: $145 million (increase of 18% YoY)
+Gross Profit Margin: 62%
+Operating Income: $27 million
+Net Profit: $18.5 million
+Earnings per Share (EPS): $2.15
+
+Highlights:
+- Strong performance in the AI SaaS division, contributing $52 million in revenue.
+- International expansion accounted for 30% of total revenue.
+- R&D investment increased by 22% to $11 million.
+- Debt-to-equity ratio improved to 0.48 from 0.65.
+
+Future Outlook:
+- Projected revenue growth for FY 2025: 15–18%
+- Focus on cloud automation, predictive analytics, and healthcare AI platforms.

@@ -1,0 +1,15 @@
+Title: ZenoTech Acquires NeuroBotics.ai to Expand Healthcare AI Portfolio
+Date: January 28, 2025
+
+ZenoTech Inc. has announced the acquisition of NeuroBotics.ai, a leading startup specializing in neurological diagnostic tools powered by AI. This move strengthens ZenoTech’s presence in the digital health domain and is aligned with its strategic roadmap for 2025.
+
+The acquisition deal, valued at $42 million, will integrate NeuroBotics’s flagship product — BrainCheckX — into ZenoTech's HealthVision suite.
+
+---
+
+Title: ZenoTech Launches ZenoCloud 3.0 with Built-in AI Ops
+Date: April 11, 2025
+
+ZenoTech today unveiled ZenoCloud 3.0, the latest version of its enterprise cloud platform, featuring built-in AI Ops and adaptive scaling for enterprise workloads. ZenoCloud 3.0 reduces cloud costs by up to 20% through intelligent workload forecasting.
+
+CEO Angela Roberts said, “ZenoCloud 3.0 is our biggest leap forward in autonomous cloud management.”
