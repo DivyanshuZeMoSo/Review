@@ -1,0 +1,4 @@
+langchain
+pymilvus
+sentence-transformers
+requests
