@@ -1,0 +1,8 @@
+langchain==0.1.16
+langchain-community==0.0.36
+duckduckgo-search==4.1
+faiss-cpu
+pypdf
+langchain-experimental
+litellm
+langchain_openai
